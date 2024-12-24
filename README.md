@@ -5,7 +5,6 @@ This Garbage Collection Management System is a web-based software that was writt
 
 Features
 Admin Side
-
 Manage Users
 Manage Clients
 Manage Waste Category
