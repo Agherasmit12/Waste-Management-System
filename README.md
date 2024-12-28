@@ -1,7 +1,7 @@
 # Waste Management System
 This is a PHP Project entitled Garbage Collection Management System. This system manages the records and client payment of a Garbage Collector Company/Business. The system has 2 types of users which are the Administrator and the Collector. The system can help a certain company or business to manage garbage collection in smart cities. This project generates also reports such as the Payment Collection Report and many more.
 
-This Garbage Collection Management System is a web-based software that was written using PHP, MySQL Database, HTML, CSS, JavaScript, Bootstrap, and some other plugins/libraries. It stores the list of the company's clients and records of waste collections. This will help the garbage collector business to automate their records and payment management.
+This Waste Management System is a web-based software that was written using PHP, MySQL Database, HTML, CSS, JavaScript, Bootstrap, and some other plugins/libraries. It stores the list of the company's clients and records of waste collections. This will help the garbage collector business to automate their records and payment management.
 
 # Features
 Admin Side
@@ -31,9 +31,9 @@ Installation/Setup
 
 4.Open a browser and browse the PHPMyAdmin. (http://localhost/phpmyadmin) 
 
-5.Create a new database naming it "gabbage".
+5.Create a new database naming it  "Gabage".
 
-6.Import the SQL file from the extracted source code folder. The file is known as "gabbbbbage.sql" and located in the root path of the extracted folder.
+6.Import the SQL file from the extracted source code folder. The file is known as "Gabage.sql" and located in the root path of the extracted folder.
 
 7.Open a web browser and browse the web application. (http://localhost/Gabage/)
 
