@@ -1,4 +1,4 @@
-Garbage Collection Management System
+# Waste Management System
 This is a PHP Project entitled Garbage Collection Management System. This system manages the records and client payment of a Garbage Collector Company/Business. The system has 2 types of users which are the Administrator and the Collector. The system can help a certain company or business to manage garbage collection in smart cities. This project generates also reports such as the Payment Collection Report and many more.
 
 This Garbage Collection Management System is a web-based software that was written using PHP, MySQL Database, HTML, CSS, JavaScript, Bootstrap, and some other plugins/libraries. It stores the list of the company's clients and records of waste collections. This will help the garbage collector business to automate their records and payment management.
@@ -14,7 +14,6 @@ Add amount to be collected
 Generate Printable Reports
 Secure Login
 Collector
-
 Add Clients
 Collect Payments
 How to Run
